@@ -1,2 +1,2 @@
-# chatgpt-robot
+# ChatGPT Robot
 Whisper + ChatGPT + gTTS + Robot = Robot Assistant
