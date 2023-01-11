@@ -8,9 +8,7 @@ Whisper + ChatGPT + gTTS + Robot = Robot Assistant
 
 ### Track face
 
-<video width="320" height="240" controls>
-  <source src="./assets/track_face.mp4" type="video/mp4">
-</video>
+![track_face](./assets/track_face.mp4)
 
 ### Chatbot
 
