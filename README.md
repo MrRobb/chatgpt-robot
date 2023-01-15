@@ -8,7 +8,7 @@ Whisper + ChatGPT + gTTS + Robot = Robot Assistant
 
 ### Track face
 
-![track_face](./assets/track_face.mp4)
+https://user-images.githubusercontent.com/7969569/212556195-f5c23ff1-74ba-47fb-948b-2175f2c535df.mp4
 
 ### Chatbot
 
